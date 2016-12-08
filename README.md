@@ -34,4 +34,4 @@ No further explanation is needed, the source code is self explanetory!
 
 بعدش اگر خاستید از پروژه بصورت یک فایل اجرایی جار خروجی بگیرید.
 
-![Settings Window](https://github.com/dddeveloperrr/youtube-leecher/blob/master/screen-shot.png)
+https://cloud.githubusercontent.com/assets/11577640/21015587/c9936fd4-bd77-11e6-907a-169c8edf6711.png
