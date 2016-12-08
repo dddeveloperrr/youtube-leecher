@@ -1,6 +1,6 @@
                                                       In the name of God
 
-this is a simple desktopm software written in java to get youtube videos links from it's HTML sources
+this is a simple desktop software written in java to get youtube videos links from it's HTML sources
 
 
 No further explanation is needed, the source code is self explanetory!
