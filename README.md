@@ -40,7 +40,7 @@ No further explanation is needed, the source code is self explanetory!
 </div>
 
 
-                                                      Screenshot 
+                                                     <div> <h1> screenshot </h1> </div> 
                        
                        
 ![ScreenShot](https://cloud.githubusercontent.com/assets/11577640/21015587/c9936fd4-bd77-11e6-907a-169c8edf6711.png)
