@@ -1,9 +1,8 @@
-                                                      In the name of God
+<h2 align=center>  In the name of Allah </h2>
 
 this is a simple desktop software written in java to get youtube videos links from it's HTML sources
 
 
-No further explanation is needed, the source code is self explanetory!
 
 
 <div dir=rtl>  
