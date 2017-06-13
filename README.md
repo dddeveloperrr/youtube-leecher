@@ -6,12 +6,11 @@ this is a simple desktop software written in java to get youtube videos links fr
 No further explanation is needed, the source code is self explanetory!
 
 
+<div dir=rtl>  
+
+
 به نام خدا
 
-<rtl>   
-سلام
-
-</rtl>
 یه لیچر یوتوب نوشته شده به زبان جاوا و دارای رابط گرافیکی
 
 این برنامه یک برنامه ساده هست برای استخراج لینک مستقیم ویدیو های یوتوب از سوررس صفحات اچ تی ام ال یوتوب
@@ -36,6 +35,10 @@ No further explanation is needed, the source code is self explanetory!
 بعد اون پوشه رو در اکلیپس ایمپورت کنید و دکمه ی سبز رنگ ران رو بزنید تا پروژه اجرا بشه.
 
 بعدش اگر خاستید از پروژه بصورت یک فایل اجرایی جار خروجی بگیرید.
+
+
+</div>
+
 
                                                       Screenshot 
                        
