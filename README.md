@@ -1,12 +1,14 @@
-<h2 align=center>  In the name of Allah </h2>
-this is a simple desktop software written in java to get youtube videos links from it's HTML sources
+
+This is a simple desktop software written in java to get youtube videos links from it's HTML sources.
+Disclaimer: extracting videos links from youtube and downloading them is against youtube against Youtube's policies. 
+Use this software At your own risk
 
 
 
 
 <div dir=rtl>  
 
-<div align="center"> <h3> به نام خدا</h3> </div>
+<div align="center"> <h1> به نام خدا</h1> </div>
 
 
 یه لیچر یوتوب نوشته شده به زبان جاوا و دارای رابط گرافیکی
