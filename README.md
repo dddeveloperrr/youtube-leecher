@@ -6,7 +6,7 @@ this is a simple desktop software written in java to get youtube videos links fr
 
 <div dir=rtl>  
 
-<div dir=rtl> <h3> به نام خدا</h3> </div>
+<div align="center"> <h3> به نام خدا</h3> </div>
 
 
 یه لیچر یوتوب نوشته شده به زبان جاوا و دارای رابط گرافیکی
