@@ -1,7 +1,7 @@
 
 This is a simple desktop software written in java to get youtube videos links from it's HTML sources.
-Disclaimer: extracting videos links from youtube and downloading them is against youtube against Youtube's policies. 
-Use this software At your own risk
+<div> Disclaimer: extracting videos links from youtube and downloading them is against Youtube's policies. 
+Use this software At your own risk </div>
 
 
 
